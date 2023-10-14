@@ -8,12 +8,12 @@ El proyecto proporciona herramientas y scripts para facilitar la lectura, escrit
 
 ## Archivos en el Repositorio
 
-- `archivoCSV.py`: [Descripción del archivo o funcionalidad]
-- `archPDF.py`: [Descripción del archivo o funcionalidad]
-- `asignaturas.csv`: Ejemplo de archivo CSV con datos de asignaturas.
-- `estudiantes.csv`: Ejemplo de archivo CSV con datos de estudiantes.
-- `leercsv.py`: Script para leer archivos CSV.
-- `listar.py`: [Descripción del archivo o funcionalidad]
+- `archivoCSV.py`
+- `archPDF.py`
+- `asignaturas.csv`
+- `estudiantes.csv`
+- `leercsv.py`
+- `listar.py`
 
 ## Contacto
 
